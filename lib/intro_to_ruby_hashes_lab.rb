@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  hash = {billy: strong}
+  hash = {billy: 'strong'}
 end
 
 def pioneer
